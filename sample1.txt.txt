@@ -1,5 +1,5 @@
 Testing my local repository and remote repository
 testing 2
-testing 3----git config --global credential.helper (not exist)---
+testing 3----git config --global credential.helper (not exist)---000
 
 
